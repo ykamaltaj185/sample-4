@@ -1,1 +1,1 @@
-# sample-4
+print("hello")
